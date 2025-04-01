@@ -132,11 +132,6 @@ legend {
     }
 
 .iconbutton img {
-    width:30px
+    width:30px;
 }
-    
-footer {
-    background-color:rgb(240, 234, 245);
-    margin-top: 20px;
-    text-align: center;
-}
+   
